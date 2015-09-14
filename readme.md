@@ -240,4 +240,3 @@ is find:true
 
 你會看到每個任務完成的時間不一定, 所以每次執行的結果順序也都不一致。
 以上就是有效率的Master-Worker Pattern。
-[程式碼](https://dl.dropboxusercontent.com/u/24682760/Android_AS/MasterWorkerPattern/Master_Worker_Pattern.zip)
