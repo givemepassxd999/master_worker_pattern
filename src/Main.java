@@ -16,7 +16,7 @@ public class Main {
         for(String key : resultMap.keySet()){
             MyString ms = ((MyString) resultMap.get(key));
             System.out.println("name:" + ms.getStr());
-            System.out.println("is fine:" + ms.isFind());
+            System.out.println("is find:" + ms.isFind());
         }
     }
 }
